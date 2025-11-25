@@ -1,8 +1,11 @@
 # Ignore all files by default
 *
 
-# Allow Markdown notes, images, and this ignore file
 !*.md
-!*.png
-!*.jpg
 !.gitignore
+
+# Allow tracked images only in images/
+!images/
+images/*
+!images/*.png
+!images/*.jpg

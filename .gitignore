@@ -1,6 +1,8 @@
 # Ignore all files by default
 *
 
-# Allow Markdown notes and this ignore file
+# Allow Markdown notes, images, and this ignore file
 !*.md
+!*.png
+!*.jpg
 !.gitignore

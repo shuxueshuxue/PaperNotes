@@ -2,7 +2,7 @@
 
 [Context_Cascade_Compression_Exploring_the_Upper_Limits_of_Text_Compression_692926b2e931079b65d68b94_main](Context_Cascade_Compression_Exploring_the_Upper_Limits_of_Text_Compression_692926b2e931079b65d68b94_main.pdf)
 
-![|600](paper%20note%201.png)
+![|600](images/paper%20note%201.png)
 
 It's interesting that it uses an extra LLM to compress information.
 

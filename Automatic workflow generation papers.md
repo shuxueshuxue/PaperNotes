@@ -24,3 +24,7 @@ This one seems similar but poorly documented.
 
 In this paper, the flow is pre-defined. And not framed as multi-agent system (that is to say, the problems it's trying to solve are not complicated enough).
 [StateFlow_Enhancing_LLM_TaskSolving_through_StateDriven_Workflows_692d1740e931079b65d68b97_main](StateFlow_Enhancing_LLM_TaskSolving_through_StateDriven_Workflows_692d1740e931079b65d68b97_main.pdf)
+
+Soft workflow as experience
+[Self-Abstraction from Grounded Experience for Plan-Guided Policy Refinement](Self-Abstraction%20from%20Grounded%20Experience%20for%20Plan-Guided%20Policy%20Refinement.pdf)
+Be aware: this is problem-wise, not system-wise (experience could not be used to solve future problems). it's pass@1 compare is probably unfair.

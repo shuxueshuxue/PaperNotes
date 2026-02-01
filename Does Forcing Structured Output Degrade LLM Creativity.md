@@ -11,3 +11,6 @@ Different models have different degree of degration.
 This result is aligned with my observation that Gemini Flash is terrible at instruction following - so perhaps it pays more "cognitive load"!
 
 The style of this research is similar to my this observation: [prompt trick](prompt%20trick.md)
+
+A good blog for this: (xml is perhaps better than json)
+[Why Does My LLM Structured Output Perform Poorly? \| Yanli 盐粒](https://blog.yanli.one/Why-Does-My-LLM-Structured-Output-Perform-Poorly)
